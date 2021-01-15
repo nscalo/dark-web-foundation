@@ -1,6 +1,6 @@
 ## BITCOIN
 
-![./bitcoin-plain-logo.png](./bitcoin-plain-logo.png)
+![./images/bitcoin-plain-logo.png](./images/bitcoin-plain-logo.png)
 
 - Most widely used currency for the Deep Web
 - Decentralised Crypto Currency
