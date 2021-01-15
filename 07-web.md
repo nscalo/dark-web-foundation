@@ -1,6 +1,8 @@
 Deep Web vs Dark Web
 --------------------
 
+![./images/Deep-Web-and-Dark-Web.jpg](./images/Deep-Web-and-Dark-Web.jpg)
+
 1. URLs are different
 - www.google.com (.net, .org, etc...) - Name and top level domain.
 2. Browsing is different

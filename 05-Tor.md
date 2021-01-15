@@ -7,6 +7,8 @@
 
 ## TOR Browser
 
+![./images/tor-logo.jfif](./images/tor-logo.jfif)
+
 - http://torproject.org
 - All onion sites
     - DuckDuckGo

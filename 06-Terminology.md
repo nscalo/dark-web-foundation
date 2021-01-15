@@ -1,5 +1,7 @@
 ## TERMINOLOGY
 
+![./images/what-is-the-dark-web.jpg](./images/what-is-the-dark-web.jpg)
+
 | Short Code | Description |
 | ---------- | ----------- |
 | BTC        | Bitcoin     |
